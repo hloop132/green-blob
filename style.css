@@ -1,0 +1,18 @@
+#gameArea{
+   border: 5px solid greenyellow; 
+}
+
+body {
+    height: 100vh;
+    background: linear-gradient(
+        0deg,
+        rgba(34, 193, 195, 1) 0%,
+        rgb(201, 67, 228)100%
+    );
+    text-align:center;
+    overflow: hidden; /*hide roll bars*/
+}
+
+h1 {
+    font-family:comic sans-serif;
+}
